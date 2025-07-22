@@ -1,0 +1,1 @@
+{"PermissionServer": {"name": "PermissionServer", "description": "A Server that handles permission requests", "url": "http://127.0.0.1", "port": 5859, "type": "scp"}, "git-demo": {"name": "git-demo", "description": "A Server that runs Huixiang Lab", "url": "http://127.0.0.1", "port": 18081, "type": "scp"}}
