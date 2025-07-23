@@ -209,6 +209,9 @@ See the [`examples/`](./examples/) directory for complete working examples
 ## Acknowledgement
 The [Model Context Protocol](https://github.com/modelcontextprotocol) provided us with significant inspiration!
 
+Note: To ensure compatibility with the MCP service, some of its code has been reused.
+
+
 ## 🎫 License
 
 This project is licensed under the MIT License - see the [LICENSE] file for details.

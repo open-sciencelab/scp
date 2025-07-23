@@ -205,7 +205,9 @@ pip install .
 </div>
 
 ## 致谢
-[模型上下文协议](https://github.com/modelcontextprotocol)给予我们重要启发！
+[模型上下文协议](https://github.com/modelcontextprotocol)给予我们重要启发。
+
+备注：为了兼容MCP服务，复用其部分代码  
 
 ## 🎫 许可
 
