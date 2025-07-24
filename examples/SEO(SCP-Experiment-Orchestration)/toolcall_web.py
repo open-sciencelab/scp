@@ -8,7 +8,7 @@ import socket
 from scp.lab.client import SciLabClient
 from pathlib import Path
 from openai import OpenAI
-llm_client = OpenAI(api_key="sk-2b75204284b949b3b766e5f368e3510d", base_url="https://api.deepseek.com")
+llm_client = OpenAI(api_key="sk-xxx", base_url="https://api.deepseek.com")
 # Create client
 client = SciLabClient("http://127.0.0.1:8081")
 
