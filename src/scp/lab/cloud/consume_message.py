@@ -94,4 +94,4 @@ class OrderConsumer(BaseConsumer):
 
 
 if __name__ == '__main__':
-    OrderConsumer("task_queue", "admin", "louwenjie", "121.5.254.174", 46382, "/dev").run()
+    OrderConsumer("xxx", "xxx", "xxx", "xxx", xxx, "/dev").run()

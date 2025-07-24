@@ -14,10 +14,10 @@ class Server(BaseModel):
 
 class SciLabClient:
     def __init__(self, base_url: str):
-        """Initialize the FastMCP HTTP client.
+        """Initialize the  HTTP client.
 
         Args:
-            base_url: Base URL of the FastMCP HTTP server
+            base_url: Base URL of the  HTTP server
         """
         self.base_url = base_url.rstrip("/")
 

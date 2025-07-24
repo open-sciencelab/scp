@@ -176,5 +176,5 @@ def get_device_cloud_instance( admin:str =None, password:str =None, queue_name:s
 
 if __name__ == '__main__':
     queue_name ='task_queue'
-    for i in range(20000000):
+    for i in range(10):
         publish_message("admin","louwenjie",queue_name, f"Message {i} with priority {i%3}")
